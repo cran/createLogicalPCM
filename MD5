@@ -1,0 +1,15 @@
+231ee37201961a5eaa87a27a8b889dad *DESCRIPTION
+3d124dca8a26fd9695c3d73a76aaa71b *NAMESPACE
+0d7c2091f534406adc41b194089d4168 *R/createLogicalPCM.R
+14c8d504e725bc9e5d701a1a1dd6d8d2 *build/partial.rdb
+fe8e251dfe9b8dd55945a61fa99defb5 *build/vignette.rds
+7fe39820745de5db6e75f16dce0cd499 *inst/doc/introduction.R
+77b6c6351805b6d28569225b17b455fb *inst/doc/introduction.Rmd
+57476ef304cbb338a5eafbbbc1b8f7b7 *inst/doc/introduction.html
+7fe39820745de5db6e75f16dce0cd499 *inst/doc/logicalPCM.R
+5692f4bb88147e2c4957b3e9766ce6e2 *inst/doc/logicalPCM.Rmd
+f1ca3bd481adc84ea5881122631ed024 *inst/doc/logicalPCM.html
+6bba2267778acbeaa2a7989f4952de89 *man/createLogicalPCM.Rd
+cd9ecff964f2d768ee8a8cebb70fa5c3 *tests/testthat/test-createLogicalPCM.R
+77b6c6351805b6d28569225b17b455fb *vignettes/introduction.Rmd
+5692f4bb88147e2c4957b3e9766ce6e2 *vignettes/logicalPCM.Rmd
